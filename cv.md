@@ -1,7 +1,7 @@
 ## Zhan Zhuridov
 
 ## Contact info
-
+- email: Zhanzs@mail.ru
 - phone: +37529xxxxxxx
 
 3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
