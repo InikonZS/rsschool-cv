@@ -1,0 +1,5 @@
+.bar{
+    display:block;
+    background-color: rgb(182, 44, 44);
+    min-height: 45px;
+}
