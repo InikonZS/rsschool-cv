@@ -8,3 +8,8 @@
     background-color: rgb(255, 255, 255);
     min-height: 45px;
 }
+.wrapper{
+    display: block;
+    width: 1024px;
+    margin: 0 auto; 
+}
