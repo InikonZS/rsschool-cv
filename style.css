@@ -3,3 +3,8 @@
     background-color: rgb(182, 44, 44);
     min-height: 45px;
 }
+.page_content{
+    display:block;
+    background-color: rgb(255, 255, 255);
+    min-height: 45px;
+}
